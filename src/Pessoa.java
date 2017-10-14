@@ -2,6 +2,7 @@
 public class Pessoa {
 
 	private String nome;
+	
 	private String email;
 	
 	public String getNome() {
